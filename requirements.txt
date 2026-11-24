@@ -1,0 +1,6 @@
+aiogram==3.13.1
+yfinance==0.2.48
+pandas==2.2.3
+pandas-ta==0.3.14b
+apscheduler==3.10.4
+numpy==1.26.4
